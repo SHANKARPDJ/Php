@@ -1,4 +1,9 @@
 <center><h3>☆ Latest Updates</h3></center>
+
+<form action="">
+  <input type="search" id="gsearch" name="A">
+  <input type="submit">
+</form>
            
 <center><div class="block"><div class="cardk"><a class="fileName" href="?play=https://cgjnf.com/moviess/Ganapath.mp4">
 <table><tr>
