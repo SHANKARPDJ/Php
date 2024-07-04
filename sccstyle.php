@@ -94,7 +94,7 @@ a {
   width: 87%;
   font-size: 16px;
   padding: 12px 20px 12px 10px;
-  border: 1px solid #ddd;
+  border: 2px solid #3F51B5;
   margin-bottom: 12px;
 }
 
