@@ -20,6 +20,8 @@ font-weight: bold;
 .footer a{ color:#fff;}
 .header a{ color:#fff;}
 
+video {border: 5px solid #3F51B5; }
+
 
 h3 {
   color: white;
