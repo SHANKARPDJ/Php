@@ -16,6 +16,7 @@ color: white;
   text-align: center;
  background-color: var(--bg-color);
 font-weight: bold;
+color:#ffffff;
 } 
 .footer a{ color:#fff;}
 .header a{ color:#fff;}
