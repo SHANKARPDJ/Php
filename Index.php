@@ -5,7 +5,7 @@
   <input type="submit">
 </form>
            
-<center><div class="block"><div class="cardk"><a class="fileName" href="?play=https://cgjnf.com/moviess/Ganapath.mp4">
+<center><div class="block"><div class="cardk"><a class="fileName" href="https://cgjnf.com/moviess/Ganapath.mp4">
 <table><tr>
 <td><img class="absmiddle" src="https://i.postimg.cc/MGSh3F3p/pushpa-the-rule-part-2.jpg" width="110" height="150" alt=""></td>
 <td><b style="color: ;font-style: oblique;">Pushpa 2</b><br>
