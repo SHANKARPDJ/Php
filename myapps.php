@@ -8,9 +8,4 @@
 <b style="color: ;font-style: oblique;"> <i class="fa fa-folder-open" aria-hidden="true"></i> Insta Millionaire</b>
 </tr></table></div></div></div></div>
 </center>
-           
-           <br><br>
-<div class="footer">
-<p>Powered by || <a href="https://skmaga.site" target="_blank">SkMaga.Site</a> || <a href="./sitemap.xml">SiteMap</a> || 
-(3) online </p>
- </div></footer></body></html>
+
