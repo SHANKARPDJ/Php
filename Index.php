@@ -5,7 +5,7 @@
 <table><tr>
 <th><img src="https://pagalmovies.tv.in/files/images/A_Quiet_Place:_Day_One_(2024)_Hindi_Dubbed_Hollywood_Movie.jpg" width="110" height="110" alt=""></th>
 <td><b style="color: ;font-style: oblique;">A Quiet Place: Day One (2024) Hindi Dubbed Hollywood Movie</b><br>
-<b style="color: ;font-style: oblique;color;red;"> <i class="fa fa-folder-open" aria-hidden="true"></i> Audio Hindi HD</b>
+<b style="color: ;font-style: oblique;color:red;"> <i class="fa fa-folder-open" aria-hidden="true"></i> Audio Hindi HD</b>
 </tr></table></div></div></center></tr>
 
 	
