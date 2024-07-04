@@ -89,7 +89,7 @@ a {
 }
 
 #myInput {
-  background-image: url('https://i.postimg.cc/8PW5Grbn/search-icon-2048x2048-cmujl7en.png');
+  background-image: url('');
   background-position: 50px 10px;
   
   width: 87%;
