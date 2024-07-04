@@ -31,9 +31,10 @@ background-image: linear-gradient(to top right, #6601BF, #FC08E4);  padding: 6px
 
 .block {
   transition: 0.3s;
-  width: 90%; 
+  width: 87%; 
  text-align: left;
  padding: 0px 0px;
+ border: 1px solid black;
 }
 
 .block a div div {
