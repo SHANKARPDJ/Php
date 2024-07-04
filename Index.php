@@ -17,3 +17,13 @@
 <b style="color: ;font-style: oblique;color:blue;"> <i class="fa fa-folder-open" aria-hidden="true"></i> Audio Hindi HD</b>
 </tr></table></div></div></center></tr>
 
+
+
+<tr><td><center><div class="block"><div class="cardk">
+<a href="/play.php?A=https://pagalmovies.tv.in/download/17966/server_1&B=Civil War 2024 Full Hindi Dubbed Hollywood Movie Hdrip&C=https://pagalmovies.tv.in/files/images/Civil_War_(2024)_Hindi_Dubbed_Hollywood_Movie.jpg&D=HD Sound Hindi">
+<table><tr>
+<th><img src="https://pagalmovies.tv.in/files/images/Civil_War_(2024)_Hindi_Dubbed_Hollywood_Movie.jpg" width="110" height="110" alt=""></th>
+<td><b style="color: ;font-style: oblique;">Civil War 2024 Full Hindi Dubbed Hollywood Movie Hdrip</b><br>
+<b style="color: ;font-style: oblique;color:red;"> <i class="fa fa-folder-open" aria-hidden="true"></i> HD Sound Hindi</b>
+</tr></table></div></div></center></tr>
+
