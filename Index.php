@@ -27,3 +27,14 @@
 <b style="color: ;font-style: oblique;color:red;"> <i class="fa fa-folder-open" aria-hidden="true"></i> HD Sound Hindi</b>
 </tr></table></div></div></center></tr>
 
+
+
+<tr><td><center><div class="block"><div class="cardk">
+<a href="/play.php?A=https://pagalmovies.tv.in/download/17922/server_1&B=Black Barbie (2024) Netflix Hollywood Hindi Dubbed&C=https://pagalmovies.tv.in/files/images/Black_Barbie_(2024)_Netflix_Hollywood_Hindi_Dubbed.jpg&D=HIGH QUALITY MOVIE">
+<table><tr>
+<th><img src="https://pagalmovies.tv.in/files/images/Black_Barbie_(2024)_Netflix_Hollywood_Hindi_Dubbed.jpg" width="110" height="110" alt=""></th>
+<td><b style="color: ;font-style: oblique;">Black Barbie (2024) Netflix Hollywood Hindi Dubbed</b><br>
+<b style="color:red"><i class="fa fa-folder-open" aria-hidden="true"></i> HIGH QUALITY MOVIE</b>
+</tr></table></div></div></center></tr>
+
+
