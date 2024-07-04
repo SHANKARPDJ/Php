@@ -1,9 +1,12 @@
 <style>
 
+:root {--bg-color: red; }
+	
 .header {
   padding: 5px;
   text-align: center;
-background-image: linear-gradient(to top right, #6601BF, #FC08E4);  color: white;
+background-color: var(--bg-color);
+color: white;
   text-align: left;
   font-weight: bold;
 } 
@@ -11,9 +14,8 @@ background-image: linear-gradient(to top right, #6601BF, #FC08E4);  color: white
 .footer {
   padding: 10px;
   text-align: center;
-  
-background-image: linear-gradient(to top right, #6601BF, #FC08E4);  color: white;
-  font-weight: bold;
+ background-color: var(--bg-color);
+font-weight: bold;
 } 
 .footer a{ color:#fff;}
 .header a{ color:#fff;}
@@ -21,7 +23,8 @@ background-image: linear-gradient(to top right, #6601BF, #FC08E4);  color: white
 
 h3 {
   color: white;
-background-image: linear-gradient(to top right, #6601BF, #FC08E4);  padding: 6px 2%; 
+background-color: var(--bg-color);
+padding: 6px 2%; 
   text-align: left;
   margin: 10px;
   font-size: 16px;
