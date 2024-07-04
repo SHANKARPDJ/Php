@@ -1,6 +1,6 @@
 <style>
 
-:root {--bg-color: red; }
+:root {--bg-color: #3F51B5; }
 	
 .header {
   padding: 5px;
@@ -37,7 +37,7 @@ padding: 6px 2%;
   width: 87%; 
  text-align: left;
  padding: 0px 0px;
- border: 1px solid black;
+ border: 1px solid #3F51B5;
 }
 
 .block a div div {
