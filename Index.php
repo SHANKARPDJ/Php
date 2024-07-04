@@ -2,7 +2,7 @@
            
 <center><div class="block"><div class="cardk"><a class="fileName" href="download/Insta+Millionaire+1194.html">
 <table><tr>
-<td><img class="absmiddle" src="https://i.postimg.cc/MGSh3F3p/pushpa-the-rule-part-2.jpg" width="100" height="130" alt=""></td>
+<td><img class="absmiddle" src="https://i.postimg.cc/MGSh3F3p/pushpa-the-rule-part-2.jpg" width="110" height="150" alt=""></td>
 <td><b style="color: ;font-style: oblique;">Pushpa 2</b><br>
 <b style="color: ;font-style: oblique;"><i class="fa fa-calendar" aria-hidden="true"></i> 10-03-2025 </b><br>
 <b style="color: ;font-style: oblique;"> <i class="fa fa-folder-open" aria-hidden="true"></i> Hindi Movie</b>
