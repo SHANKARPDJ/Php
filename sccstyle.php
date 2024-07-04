@@ -26,7 +26,7 @@ video {border: 5px solid #3F51B5; }
 h3 {
   color: white;
 background-color: var(--bg-color);
-padding: 6px 2%; 
+padding: 9px 2%; 
   text-align: left;
   margin: 10px;
   font-size: 16px;
