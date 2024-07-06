@@ -35,47 +35,6 @@ padding: 9px 2%;
   width: 87%;
 }
 
-.block {
-  transition: 0.3s;
-  width: 100%; 
- text-align: left;
- padding: 0px 0px;
- border: 1px solid #3F51B5;
-}
-
-.block a div div {
-            vertical-align: middle;
-            display: table-cell
-        }
-        
-        .block a {
-            display: block;
-            padding: 5px
-        }
-        .block a img {
-            padding: 0;
-            margin-right: 5px
-            
-            
-        }
-
-
-.block img {
-            
-            padding: 1px;
-            border-radius: 5px;
-            background:#000;
-        }
-
-
-	* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0px;
-  font-family: 'segoe ui';
-}
 a {
             text-decoration: none;
             color: #000;
