@@ -47,36 +47,7 @@ a {
   box-sizing: border-box;
 }
 
-#myInput {
-  background-image: url('');
-  background-position: 50px 10px;
-  
-  width: 87%;
-  font-size: 16px;
-  padding: 12px 20px 12px 10px;
-  border: 2px solid #3F51B5;
-  margin-bottom: 12px;
-}
 
-#myTable {
-  border-collapse: collapse;
-  width: 87%;
-  font-size: 18px;
-}
-
-
-#myTable th, #myTable td {
-  text-align: left;
-  
-}
-
-#myTable tr {
-  border-bottom: 1px solid #ddd;
-}
-
-#myTable tr.header, #myTable tr:hover {
-  background-color: #f1f1f1;
-}
 	</style>
 
 
