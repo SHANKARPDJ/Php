@@ -105,6 +105,7 @@ a {
   font-size: 18px;
 }
 
+
 #myTable th, #myTable td {
   text-align: left;
   
@@ -118,3 +119,53 @@ a {
   background-color: #f1f1f1;
 }
 	</style>
+
+
+
+<style>
+    	*, body {
+  margin: 0;
+  padding: 0;
+}
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  height: 100px;
+  width: 45%;
+  color: #fff;
+  font-size: 18px;
+  line-height: 100px; /* centering text just for view */
+  text-align: center;
+  background-color: grey;
+  margin: 5px;
+  border: 1px solid lightgrey;
+  display: none;
+}
+#loadMore {
+  width: 200px;
+  color: #fff;
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background-color: blue;
+  transition: .3s;
+}
+#loadMore:hover {
+  color: blue;
+  background-color: #fff;
+  border: 1px solid blue;
+  text-decoration: none;
+}
+.noContent {
+  color: #000 !important;
+  background-color: transparent !important;
+  pointer-events: none;
+}
+</style>
