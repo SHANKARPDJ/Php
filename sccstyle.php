@@ -1,9 +1,3 @@
-<?php
-$firstNames = ['red', 'DarkMagenta', 'orange', 'green', 'DarkBlue'];
-$randomFirstName = $firstNames[array_rand($firstNames)];
-$randomName = $randomFirstName ;
-?>
-
 <style>
 
 :root {--bg-color: #3F51B5; }
@@ -54,10 +48,7 @@ a {
 }
 
 
-	</style>
 
-
-<style>
 body{ margin:0px;
  }
 
