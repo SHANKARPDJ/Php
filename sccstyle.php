@@ -1,6 +1,6 @@
 <style>
 
-:root {--bg-color: #3F51B5; }
+:root {--bg-color: #1abc9c; }
 	
 .header {
   padding: 5px;
